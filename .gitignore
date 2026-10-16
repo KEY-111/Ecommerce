@@ -1,0 +1,5 @@
+node_modules/
+dist/
+server/store.db
+*.log
+.env
